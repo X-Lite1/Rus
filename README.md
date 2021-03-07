@@ -7,7 +7,7 @@
 # $ pkg install bash
 # $ pkg install python2
 # $ pkg install git
-# $ git clone https://github.com/mcook-id/Rus
+# $ https://github.com/X-Lite1/Rus
 # $ cd Rus
 # $ sh v2.sh
 
